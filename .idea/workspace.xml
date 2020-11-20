@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practica1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expresionesregulares/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Expresionesregulares/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +59,17 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\elvag\Desktop\Estructura\Unidad2\.idea" />
+      </set>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectId" id="1kIYcYqlXzKrPxKWMHudVRit8dc" />
+  <component name="ProjectId" id="1kXFgg5yHSG9XPQ1vMxIcCUZRVw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -84,7 +89,6 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practica1" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RunManager">
@@ -115,7 +119,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="Expresionesregulares" />
+      <module name="Unidad2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -189,33 +193,17 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1605897778426">
+    <state x="462" y="105" key="FileChooserDialogImpl" timestamp="1605839301751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605897778426" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1605392395661">
+    <state x="462" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605839301751" />
+    <state x="65" y="66" key="new project wizard" timestamp="1605839310725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605392395661" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1605392395660">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605392395660" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1605392395660">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605392395660" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1605392395661">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605392395661" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1605896984767">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605896984767" />
-    <state x="65" y="66" key="new project wizard" timestamp="1605839139950">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="66" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1605839139950" />
+    <state x="65" y="66" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1605839310725" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
 </project>
