@@ -15,7 +15,7 @@ public class Controller {
     @FXML ListView listaEjer;
     @FXML Label lblResultado;
     @FXML protected void initialize(){
-        listaEjer.getItems().addAll("Ejercicio 1", "Ejercicio 2");
+        listaEjer.getItems().addAll("Ejercicio 1", "Ejercicio 2", "Ejercicio 3", "Ejercicio 4", "Ejercicio 5", "Ejercicio 6", "Ejercicio 7", "Ejercicio 8", "Ejercicio 9", "Ejercicio 10", "Ejercicio 11", "Ejercicio 13", "Ejercicio 14", "Ejercicio 15", "Ejercicio 16", "Ejercicio 17", "Ejercicio 18", "Ejercicio 19");
     }
     public void procesar(ActionEvent event){
         int seleccion = listaEjer.getSelectionModel().getSelectedIndex();
@@ -60,6 +60,42 @@ public class Controller {
             }
             case 9: {
                 expresion="";
+                break;
+            }
+            case 10: {
+                expresion="^[$][0-9]";
+                break;
+            }
+            case 11: {
+                expresion="[0-9]{16}";
+                break;
+            }
+            case 12: {
+                expresion="^[<][a-z][>]$";
+                break;
+            }
+            case 13: {
+                expresion="^[#][A-F0-9]{7}";
+                break;
+            }
+            case 14: {
+                expresion="^[https://][a-zA-Z0-9][.com]$";
+                break;
+            }
+            case 15: {
+                expresion="";
+                break;
+            }
+            case 16: {
+                expresion="";
+                break;
+            }
+            case 17: {
+                expresion="";
+                break;
+            }
+            case 18: {
+                expresion="^[https://www.youtube.com/watch?][a-zA-Z0-9]%7B13%7D$";
                 break;
             }
         }
